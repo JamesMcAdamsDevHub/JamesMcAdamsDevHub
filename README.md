@@ -5,6 +5,7 @@
 - **Aspiring Software Developer**
 
 **Experience:** 
+
 - TA for CS1
 - TA for Intro to Object-Oriented Programming
 - Built a website for CS1 students to reference CS topics
@@ -12,6 +13,7 @@
 - Created games in Java, Python, C, C#, and Unreal Engine Blueprint
 
 **Languages:** C, C#, Python, Java
+
 **Tools:** Git, GitHub, Replit, VSCode, Unity, Unreal Engine
 
 ---
@@ -59,9 +61,9 @@ I have constructed a UML diagram that maps out more modular class structures tha
 each class and can be reused for extending their functionality to other generation-based tools in the future.
 
 This project is ongoing and can be found in my GitHub Here:
-[Procedural Mesh Generation](https://github.com/JamesMcAdamsDevHub/Unity-CustomTrackGeneration)
+[Unity Procedural track Generation](https://github.com/JamesMcAdamsDevHub/Unity-CustomTrackGeneration)
 
 ---
 
 ## Video Game Related Projects
-[Instagram](https://www.instagram.com/jimmycodesgames/)
+[Instagram @jimmycodesgames](https://www.instagram.com/jimmycodesgames/)
