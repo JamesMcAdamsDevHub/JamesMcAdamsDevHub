@@ -55,7 +55,7 @@ Git, GitHub, VSCode, Unity, Unreal Engine
 ## 📫 Connect
 
 LinkedIn:  
-👉 https://www.linkedin.com/in/your-link-here/
+👉 https://www.linkedin.com/in/james-mcadams-dev/
 
 Instagram (Game Dev / Projects):  
 👉 https://www.instagram.com/jimmycodesgames/
