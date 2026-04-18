@@ -1,69 +1,61 @@
-## 👋 Hi there, I'm James McAdams 
+# 👋 Hi, I'm James McAdams
 
-- **Junior CS Major at University of Central Florida** 
-- **Teaching Assistant for Computer Science 1**
-- **Aspiring Software Developer**
+Junior Computer Science student at UCF and Teaching Assistant for Computer Science 1.
 
-**Experience:** 
-
-- TA for CS1
-- TA for Intro to Object-Oriented Programming
-- Built a website for CS1 students to reference CS topics
-- Created tools in Java and C#
-- Created games in Java, Python, C, C#, and Unreal Engine Blueprint
-
-**Languages:** C, C#, Python, Java
-
-**Tools:** Git, GitHub, Replit, VSCode, Unity, Unreal Engine
-
----
-  
-## Who Am I?
-
-When not working on coursework or in my role as a TA, I spend my free time working on small 
-programming-related hobby projects. 
-
-Sometimes merely as a means to practice and reinforce CS topics I am currently learning.
-
-Other times, I work on building tools to help students better understand fundamental CS topics. 
-
-The most recent example is the following website: 
-[CS1 Code Reference Guide](https://cs1code.com)
-
-I created this website while studying for my UCF CS Foundation Exam, with the initial goal
-of practicing and solidifying my understanding of CS topics.
-
-While recreating all of the various data structures, sorting algorithms, searching algorithms, 
-and other topics covered in CS1, I realized that this code could serve to be a valuable study tool
-for future students.
-
-With this idea in mind, I built this website to house the code that I had written. With permission from
-the professor for whom I work as a TA, I now share the site with students that request additional study material.
-
-I intend on continuing to update this site with additional code examples for students to reference.
+Building tools and systems with a focus on clarity, extensibility, and reusable design.
 
 ---
 
-## What Am I Currently working On?
+## 🔧 Projects
 
-Currently, I am working on creating a tool for procedurally generating tracks in Unity using C#. 
+### 📘 CS1 Code Reference Guide  
+👉 https://cs1code.com  
 
-Having never written code in C# before, I first created a proof of concept in the form of a script that can
-be attached to a spline and works by:
+A structured reference platform for core CS1 concepts.
 
-1) traversing the spline
-2) sampling points for their world positions, forward, and up vectors
-3) generating vertices, triangles, and uvs
-4) creating a GameObject with materials and collision based on generated data
-
-There was a steep learning curve, but now that I feel more comfortable with C# and procedural mesh generation, 
-I have constructed a UML diagram that maps out more modular class structures that separates responsibilities for 
-each class and can be reused for extending their functionality to other generation-based tools in the future.
-
-This project is ongoing and can be found in my GitHub Here:
-[Unity Procedural track Generation](https://github.com/JamesMcAdamsDevHub/Unity-CustomTrackGeneration)
+- 20+ detailed implementations of data structures and algorithms  
+- Covers topics such as dynamic memory allocation, recursion, trees, searching, and sorting  
+- Built as a personal study tool and expanded into a resource for students  
 
 ---
 
-## Video Game Related Projects
-[Instagram @jimmycodesgames](https://www.instagram.com/jimmycodesgames/)
+### ⚙️ Procedural Track Generation Tool (Unity / C#)  
+👉 https://github.com/JamesMcAdamsDevHub/Unity-CustomTrackGeneration  
+
+![Procedural Track Generation](https://raw.githubusercontent.com/JamesMcAdamsDevHub/Unity-CustomTrackGeneration/main/Documentation/Images/GIFs/TrackSnappingDemo.gif)
+
+A modular tool for generating and connecting track geometry in Unity.
+
+- Procedurally generates mesh geometry using spline-based and vector-based approaches
+- Dynamically constructs vertices, triangles, UVs, and colliders in the Unity editor 
+- Implements snapping and connection systems for linking track segments  
+- Uses a modular, extensible architecture to support multiple generation workflows (spline paths, loops, connected segments)  
+- Includes custom editor tooling for real-time track creation, modification, and debugging 
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+C, C#, Java, Python  
+
+**Tools:**  
+Git, GitHub, VSCode, Unity, Unreal Engine  
+
+---
+
+## 🎯 Current Focus
+
+- Improving procedural mesh generation systems in Unity
+- Expanding CS1Code with additional data structures and algorithms  
+- Building tools that emphasize clarity, extensibility, and reusability
+
+---
+
+## 📫 Connect
+
+LinkedIn:  
+👉 https://www.linkedin.com/in/your-link-here/
+
+Instagram (Game Dev / Projects):  
+👉 https://www.instagram.com/jimmycodesgames/
