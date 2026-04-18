@@ -28,7 +28,7 @@ Sometimes merely as a means to practice and reinforce CS topics I am currently l
 Other times, I work on building tools to help students better understand fundamental CS topics. 
 
 The most recent example is the following website: 
-[CS1 Code Reference Guide](https://cs1code.replit.app)
+[CS1 Code Reference Guide](https://cs1code.com)
 
 I created this website while studying for my UCF CS Foundation Exam, with the initial goal
 of practicing and solidifying my understanding of CS topics.
