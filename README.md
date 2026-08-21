@@ -1,61 +1,70 @@
 # 👋 Hi, I'm James McAdams
 
-Junior Computer Science student at UCF and Teaching Assistant for Computer Science 1.
+Computer Science student at the University of Central Florida and Software Engineering Co-op at Curriculum Associates.
 
-Building tools and systems with a focus on clarity, extensibility, and reusable design.
-
----
-
-## 🔧 Projects
-
-### 📘 CS1 Code Reference Guide  
-👉 https://cs1code.com  
-
-A structured reference platform for core CS1 concepts.
-
-- 20+ detailed implementations of data structures and algorithms  
-- Covers topics such as dynamic memory allocation, recursion, trees, searching, and sorting  
-- Built as a personal study tool and expanded into a resource for students  
+I enjoy building software, developer tools, and interactive systems with a focus on clean architecture, extensibility, and reusable design.
 
 ---
 
-### ⚙️ Procedural Track Generation Tool (Unity / C#)  
-👉 https://github.com/JamesMcAdamsDevHub/Unity-CustomTrackGeneration  
+## 🔧 Featured Project
 
-![Procedural Track Generation](https://raw.githubusercontent.com/JamesMcAdamsDevHub/Unity-CustomTrackGeneration/main/Documentation/Images/GIFs/TrackSnappingDemo.gif)
+### ⚙️ Procedural Track Generation Tool — Unity / C#
 
-A modular tool for generating and connecting track geometry in Unity.
+A procedural generation system for creating customizable tracks, roads, and connected structures directly in Unity.
 
-- Procedurally generates mesh geometry using spline-based and vector-based approaches
-- Dynamically constructs vertices, triangles, UVs, and colliders in the Unity editor 
-- Implements snapping and connection systems for linking track segments  
-- Uses a modular, extensible architecture to support multiple generation workflows (spline paths, loops, connected segments)  
-- Includes custom editor tooling for real-time track creation, modification, and debugging 
+* Procedurally generates mesh geometry using vector math, spline-based sampling, and component-specific generation techniques
+* Supports configurable curves with control over radius, angle, elevation, and banking
+* Generates loops, intersections, connected track segments, and complex 3D track structures
+* Dynamically constructs vertices, triangles, UVs, colliders, and supporting geometry
+* Implements snapping and connection systems for seamlessly linking generated components
+* Uses a modular architecture designed to support new track and road components
+* Includes custom Unity editor tooling for interactive creation, modification, and debugging
+
+---
+
+## 💼 Experience
+
+### Software Engineering Co-op — Curriculum Associates
+
+Developing and maintaining production educational software using **Unity and C#**.
+
+* Implement features and resolve defects in production Unity applications
+* Participate in code reviews, testing, and collaborative software development
+* Build internal development and testing tools
+* Develop supporting Java APIs and tooling for product demonstrations and testing
+
+Previously served as a Teaching Assistant at UCF for **Computer Science I** and **Object-Oriented Programming**.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages:**  
-C, C#, Java, Python  
+**Languages:**
+C#, Java, C, Python
 
-**Tools:**  
-Git, GitHub, VSCode, Unity, Unreal Engine  
+**Game Development:**
+Unity, Unreal Engine
+
+**Tools:**
+Git, GitHub, Visual Studio, VS Code
 
 ---
 
 ## 🎯 Current Focus
 
-- Improving procedural mesh generation systems in Unity
-- Expanding CS1Code with additional data structures and algorithms  
-- Building tools that emphasize clarity, extensibility, and reusability
+* Expanding my software architecture and system design skills, with an emphasis on planning maintainable and extensible systems before implementation
+* Growing as a software engineer through production development, code reviews, testing, and collaborative engineering at Curriculum Associates
+* Designing modular developer tools and procedural generation systems in Unity
+* Deepening my experience with C#, Java, Unity, and object-oriented design
+* Exploring game development and tools engineering as long-term areas of specialization
+
 
 ---
 
 ## 📫 Connect
 
-LinkedIn:  
-👉 https://www.linkedin.com/in/james-mcadams-dev/
+**LinkedIn:**
+https://www.linkedin.com/in/james-mcadams-dev/
 
-Instagram (Game Dev / Projects):  
-👉 https://www.instagram.com/jimmycodesgames/
+**Instagram — Game Dev / Projects:**
+https://www.instagram.com/jimmycodesgames/
